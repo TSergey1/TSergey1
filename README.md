@@ -1,6 +1,6 @@
-## :man_technologist: Hi there!
+## Hi there!
 I'm a Python developer with an engineering background. I possess expertise in Python, Django, and DRF.
-## 💻 My tech stack:
+## My tech stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp
