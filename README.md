@@ -1,7 +1,5 @@
-## Hi there!
-
-## :man_technologist: Python developer
-
+## :man_technologist: Hi there!
+I'm a Python developer with an engineering background. I possess expertise in Python, Django, and DRF.
 ## 💻 My tech stack:
 
 <div>
@@ -21,9 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp
 </div>
 
-
 ## 🤝 Сontacts:
-
   <div id="badges">
     <a href="https://www.linkedin.com/in/sergey-tyrtychnyy-8163a7b5/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
