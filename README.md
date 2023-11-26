@@ -1,27 +1,8 @@
-# Привет, меня зовут Cергей!
+## Hi there!
 
----
+## :man_technologist: Python developer
 
-### :man_technologist: Python developer
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-tyrtychnyi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tyrtycnyy_s) [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Mail&logoColor=white)](mailto:tyrtychnyy90@mail.ru)
-
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sergey-tyrtychnyy-8163a7b5/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/tyrtycnyy_s" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-  </div>
-
----
-
-### 💻 Технологии:
+## 💻 My tech stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -40,4 +21,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp
 </div>
 
----
+
+## 🤝 Сontacts:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/sergey-tyrtychnyy-8163a7b5/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/tyrtycnyy_s" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
